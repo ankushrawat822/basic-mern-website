@@ -8,8 +8,8 @@ pnpm-debug.log*
 lerna-debug.log*
 
 frontEnd/vite-project/node_modules
-backEnk/node_modules
-backEnk/.evn
+backEnd/node_modules
+backEnd/.evn
 
 
 
