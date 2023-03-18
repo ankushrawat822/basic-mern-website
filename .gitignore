@@ -7,7 +7,12 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
+frontEnd/vite-project/node_modules
+backEnk/node_modules
+backEnk/.evn
+
+
+
 dist
 dist-ssr
 *.local
